@@ -22,6 +22,7 @@ export class Assignment2Component implements OnInit {
 
   onAddUsername(){
     this.userCreationStatus = 'user was created! Name is: ' + this.username ;
+
   }
 
 }
